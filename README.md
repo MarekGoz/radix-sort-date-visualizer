@@ -10,7 +10,7 @@ Built as a project for the "Algorithms and Data Structures" course.
 
 ## How it works
 The algorithm sorts dates from the least significant field (seconds) to the most significant (years).
-
+![Demo view](demo.png)
 ## Authors
 - Kamil Homziuk (Validation, GUI, Data handling)
 - Marek Gozdalski (Sorting logic, Scrollbar, GUI Alerts)
