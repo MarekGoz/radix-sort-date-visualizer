@@ -1,3 +1,13 @@
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Python
 __pycache__/
-*.pyc
-.vscode/
+*.py[cod]
+*$py.class
+
+# Inne
+*.zip
