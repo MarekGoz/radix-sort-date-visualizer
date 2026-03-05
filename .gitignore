@@ -1,3 +1,10 @@
+build/
+dist/
+*.spec
+*.exe
+
 __pycache__/
-*.pyc
-.vscode/
+*.py[cod]
+*$py.class
+
+*.zip
